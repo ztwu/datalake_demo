@@ -253,6 +253,17 @@
       <version>0.5.0</version>
     </dependency>
 
+    <dependency>
+      <groupId>org.apache.iceberg</groupId>
+      <artifactId>iceberg-core</artifactId>
+      <version>0.10.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.iceberg</groupId>
+      <artifactId>iceberg-spark3-runtime</artifactId>
+      <version>0.10.0</version>
+    </dependency>
+
   </dependencies>
 
   <build>
